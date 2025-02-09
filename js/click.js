@@ -32,7 +32,7 @@ c=bulk;
     localStorage.setItem('data',c)
   
   //  console.log(any)
-  window.location.href="contacts.html"
+  window.location.href="index.html"
   })
   
   
